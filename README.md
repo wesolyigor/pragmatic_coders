@@ -1,5 +1,6 @@
 # pragmatic_coders
 
-## Brawo!
+## Bravo!
 
-Dziękuję Ci, że dotarłeś w to miejsce. Zapoznaj się ze wszystkimi(!) plikami zawartymi w repozytorium i postępuj zgodnie z instrukcją, którą wywołasz za pomocą pliku candidate.py 
+Thank you for coming to this place. 
+Familiarize yourself with all(!) files contained in the repository and follow the instructions you call with the candidate.py file
